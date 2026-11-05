@@ -20,8 +20,6 @@
 
 I'm Jorge Oliver, currently pursuing an **MSc in Artificial Intelligence, Data & Cloud at EDEM**.
 
-I'm passionate about technology and interested in exploring how Artificial Intelligence, Machine Learning and Data can be used to develop intelligent solutions and solve real-world problems.
-
 My main areas of interest include:
 
 - Artificial Intelligence & Machine Learning
@@ -42,27 +40,4 @@ I'm constantly learning, experimenting with new technologies and developing my t
   <img src="https://img.shields.io/badge/Pandas-303030?style=for-the-badge&logo=pandas&logoColor=BDBDBD" />
   <img src="https://img.shields.io/badge/Git-303030?style=for-the-badge&logo=git&logoColor=BDBDBD" />
   <img src="https://img.shields.io/badge/APIs-303030?style=for-the-badge&logoColor=BDBDBD" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-COMING%20SOON-303030?style=for-the-badge&labelColor=181818&color=404040" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jorgeo-bot&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BDBDBD&icon_color=999999&text_color=999999&ring_color=888888" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeo-bot&layout=compact&hide_border=true&bg_color=0D1117&title_color=BDBDBD&text_color=999999" />
-</p>
-
----
-
-<p align="center">
-  <sub>Always learning. Always building. Always exploring.</sub>
 </p>
