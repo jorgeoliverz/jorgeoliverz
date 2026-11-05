@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4500&pause=1800&color=999999&center=true&vCenter=true&width=750&lines=Data+Engineer+Enthusiast;Cloud+Computing+%26+Infrastructure;Data+Science+%26+Analytics;AI+%26+Machine+Learning;Building+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4500&pause=1800&color=999999&center=true&vCenter=true&width=750&lines=Data+Engineer;Cloud+Computing+%26+Infrastructure;Data+Science+%26+Analytics;AI+%26+Machine+Learning;Building+Intelligent+Solutions" />
 </p>
 
 
