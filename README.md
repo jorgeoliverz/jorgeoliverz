@@ -20,7 +20,8 @@ Interested in Artificial Intelligence, Machine Learning, Data Science and Cloud 
 
 ### Technologies
 
-`Python` `SQL` `NumPy` `Pandas` `Git` `APIs`
+![Python](https://shields.io)
+![Git](https://shields.io)
 
 ### Projects
 
