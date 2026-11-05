@@ -1,56 +1,96 @@
-# Hey, everyone! My name is Jorge. 👋
+# Jorge Oliver
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=220&section=header&text=Jorge&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Data%20%7C%20Cloud&descAlignY=55&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:252525,100:383838&height=190&section=header&text=JORGE%20OLIVER&fontSize=48&fontColor=BDBDBD&animation=fadeIn&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20DATA%20%7C%20CLOUD&descAlignY=60&descSize=13&descColor=858585" width="100%" />
 </p>
 
-<h3 align="center">
-  🤖 AI · 📊 Data · ☁️ Cloud
-</h3>
-
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0369A1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-0284C7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-38BDF8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20MACHINE%20LEARNING-252525?style=flat-square&labelColor=111111&color=383838" />
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-252525?style=flat-square&labelColor=111111&color=383838" />
+  <img src="https://img.shields.io/badge/DATA%20ENGINEERING-252525?style=flat-square&labelColor=111111&color=383838" />
+  <img src="https://img.shields.io/badge/CLOUD%20COMPUTING-252525?style=flat-square&labelColor=111111&color=383838" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 01 / ABOUT ME
 
-I'm currently studying a **MSc in AI, Data and Cloud at EDEM** 🐠
+Hi! I'm **Jorge Oliver**, currently pursuing an **MSc in Artificial Intelligence, Data & Cloud at EDEM**.
+
+I'm interested in building intelligent solutions, extracting meaningful insights from data and exploring the technologies shaping the future of computing.
+
+I enjoy learning, experimenting with new tools and developing projects that combine data, artificial intelligence and cloud technologies.
+
+**Areas of Interest**
+
+- Artificial Intelligence & Machine Learning
+- Data Science & Analytics
+- Data Engineering
+- Cloud Computing
 
 ---
 
-## 📈 GitHub Stats
+## 02 / TECH STACK
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jorgeo-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeo-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" />
+*Technologies and tools I currently work with:*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git&theme=dark" />
 </p>
 
-## 📫 Let's Connect
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-303030?style=flat-square&logo=postgresql&logoColor=BDBDBD" />
+  <img src="https://img.shields.io/badge/NumPy-303030?style=flat-square&logo=numpy&logoColor=BDBDBD" />
+  <img src="https://img.shields.io/badge/Pandas-303030?style=flat-square&logo=pandas&logoColor=BDBDBD" />
+  <img src="https://img.shields.io/badge/API-303030?style=flat-square&logo=fastapi&logoColor=BDBDBD" />
+</p>
+
+---
+
+## 03 / FEATURED PROJECTS
+
+*A selection of projects and experiments will be featured here.*
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/jorge-oliver-zarcero">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PROJECTS-COMING%20SOON-292929?style=for-the-badge&labelColor=111111&color=444444" />
+</p>
+
+---
+
+## 04 / GITHUB STATISTICS
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgeo-bot&show_icons=true&hide_border=true&bg_color=111111&title_color=BDBDBD&icon_color=858585&text_color=A3A3A3&ring_color=888888" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeo-bot&layout=compact&hide_border=true&bg_color=111111&title_color=BDBDBD&text_color=A3A3A3" />
+</p>
+
+---
+
+## 05 / CURRENTLY LEARNING
+
+- Exploring Artificial Intelligence and Machine Learning.
+- Developing data analysis and engineering skills.
+- Expanding my knowledge of cloud technologies.
+
+---
+
+## 06 / CONNECT
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-oliver-zarcero/">
+    <img src="https://img.shields.io/badge/LINKEDIN-292929?style=for-the-badge&logo=linkedin&logoColor=BDBDBD" />
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-292929?style=for-the-badge&logo=gmail&logoColor=BDBDBD" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Turning data into intelligence, one project at a time.”</i>
+  <sub>Building knowledge. Exploring technology. Creating what's next.</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:383838,50:252525,100:101010&height=100&section=footer" width="100%" />
 </p>
-
-
